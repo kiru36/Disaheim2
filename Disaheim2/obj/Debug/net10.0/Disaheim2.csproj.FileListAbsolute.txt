@@ -1,0 +1,14 @@
+C:\Users\Bruger\Desktop\Skole\Disaheim2\Disaheim2\bin\Debug\net10.0\Disaheim2.exe
+C:\Users\Bruger\Desktop\Skole\Disaheim2\Disaheim2\bin\Debug\net10.0\Disaheim2.deps.json
+C:\Users\Bruger\Desktop\Skole\Disaheim2\Disaheim2\bin\Debug\net10.0\Disaheim2.runtimeconfig.json
+C:\Users\Bruger\Desktop\Skole\Disaheim2\Disaheim2\bin\Debug\net10.0\Disaheim2.dll
+C:\Users\Bruger\Desktop\Skole\Disaheim2\Disaheim2\bin\Debug\net10.0\Disaheim2.pdb
+C:\Users\Bruger\Desktop\Skole\Disaheim2\Disaheim2\obj\Debug\net10.0\Disaheim2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Desktop\Skole\Disaheim2\Disaheim2\obj\Debug\net10.0\Disaheim2.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\Skole\Disaheim2\Disaheim2\obj\Debug\net10.0\Disaheim2.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\Skole\Disaheim2\Disaheim2\obj\Debug\net10.0\Disaheim2.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\Skole\Disaheim2\Disaheim2\obj\Debug\net10.0\Disaheim2.dll
+C:\Users\Bruger\Desktop\Skole\Disaheim2\Disaheim2\obj\Debug\net10.0\refint\Disaheim2.dll
+C:\Users\Bruger\Desktop\Skole\Disaheim2\Disaheim2\obj\Debug\net10.0\Disaheim2.pdb
+C:\Users\Bruger\Desktop\Skole\Disaheim2\Disaheim2\obj\Debug\net10.0\Disaheim2.genruntimeconfig.cache
+C:\Users\Bruger\Desktop\Skole\Disaheim2\Disaheim2\obj\Debug\net10.0\ref\Disaheim2.dll
